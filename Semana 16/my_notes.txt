@@ -1,0 +1,5 @@
+ 1: Ir a comprar arroz para el almuerzo.
+ 2: Arreglar la casa.
+ 3: Lamar al señor del gas.
+ 4: Terminar deberes.
+ 
